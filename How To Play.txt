@@ -1,0 +1,6 @@
+To move left press "A" on keyboard or whatever you have assigned to "horizontal -" in Unity
+To move right press "D" on keyboard or whatever you have assigned to "horizontal +" in Unity
+To move right press "Spacebar" on keyboard or whatever you have assigned to "Jump" in Unity
+
+Collect coins and finish the level as fast as possible to gain the most points possible.
+Jump on top of foxes to kill them before they kill you.

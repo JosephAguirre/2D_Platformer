@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: a1cb39ecf70f1e145894e23d972ee8a2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: QuestionTile
+    21300002: Pipe
+    21300004: Reg_Tile
+    21300006: Stone_Tile
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5932994, y: 0.048770007}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 300, y: 0, z: 200, w: 900}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: QuestionTile
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 70
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: -49}
+        - {x: -43, y: -46}
+        - {x: -47, y: -42}
+        - {x: -47, y: -37}
+        - {x: -50, y: -26}
+        - {x: -50, y: -6}
+        - {x: -50, y: 17}
+        - {x: -50, y: 31}
+        - {x: -48, y: 38}
+        - {x: -48, y: 40}
+        - {x: -47, y: 42}
+        - {x: -43, y: 46}
+        - {x: -40, y: 49}
+        - {x: -34, y: 49}
+        - {x: -34, y: 50}
+        - {x: 37, y: 50}
+        - {x: 46, y: 44}
+        - {x: 50, y: 35}
+        - {x: 50, y: -40}
+        - {x: 34, y: -49}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3d93958ff92c04589a1a44fbe0907a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -100}
+        - {x: -80, y: 0}
+        - {x: -92, y: 9}
+        - {x: -100, y: 20}
+        - {x: -100, y: 81}
+        - {x: -96, y: 89}
+        - {x: -90, y: 95}
+        - {x: -80, y: 100}
+        - {x: 79, y: 100}
+        - {x: 91, y: 95}
+        - {x: 100, y: 82}
+        - {x: 100, y: 19}
+        - {x: 92, y: 10}
+        - {x: 79.5, y: 0}
+        - {x: 80, y: -100}
+      physicsShape:
+      - - {x: -80, y: -100}
+        - {x: -79.49994, y: -0.50006104}
+        - {x: -88, y: 5}
+        - {x: -93, y: 11}
+        - {x: -100, y: 19}
+        - {x: -100, y: 82}
+        - {x: -96, y: 90}
+        - {x: -92, y: 93}
+        - {x: -86, y: 97}
+        - {x: -79, y: 99}
+        - {x: 80, y: 100}
+        - {x: 87, y: 97}
+        - {x: 93, y: 93}
+        - {x: 97, y: 88}
+        - {x: 100, y: 81}
+        - {x: 100, y: 20}
+        - {x: 96, y: 11}
+        - {x: 80, y: 0.5}
+        - {x: 80, y: -99}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228cd129df78bc244992dcdc7b43547b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reg_Tile
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -50}
+        - {x: -45, y: -44}
+        - {x: -49, y: -36}
+        - {x: -50, y: -30}
+        - {x: -50, y: 34}
+        - {x: -48, y: 41}
+        - {x: -44, y: 45}
+        - {x: -41, y: 48}
+        - {x: -35, y: 50}
+        - {x: 34, y: 50}
+        - {x: 40, y: 48}
+        - {x: 44, y: 46}
+        - {x: 47, y: 39}
+        - {x: 50, y: 31}
+        - {x: 49, y: -37}
+        - {x: 44, y: -44}
+        - {x: 32, y: -50}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27287f0fdf02bc944aff569c65baf874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Tile
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -50}
+        - {x: -44, y: -45}
+        - {x: -48, y: -37}
+        - {x: -50, y: -30}
+        - {x: -50, y: 35}
+        - {x: -47, y: 42}
+        - {x: -43, y: 47}
+        - {x: -41, y: 48}
+        - {x: -36, y: 50}
+        - {x: 33, y: 50}
+        - {x: 39, y: 49}
+        - {x: 43, y: 46}
+        - {x: 47, y: 42}
+        - {x: 50, y: 33}
+        - {x: 49, y: -40}
+        - {x: 41, y: -46}
+        - {x: 32, y: -50}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a435ba60fdf846489d86d38ada207cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 836477fd267f90d498da4d3c050460c9
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
